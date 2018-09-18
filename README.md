@@ -6,7 +6,7 @@ This file contains answers to a popular security company's online security chall
 
 The company does not want public write-ups posted. Therefore, I have redacted sensitive information. In addition, this is for a previous set of challenges that are no longer accessible.
 
-For each challenge, I've have described my thought process.
+For each challenge, I have described my thought process.
 
 ## Challenge 1
 
